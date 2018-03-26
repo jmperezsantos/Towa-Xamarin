@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{7EAD41AD-63A1-436C-8468-47130B2D5513}|Default">
+  <MonoDevelop.Ide.ItemProperties.ListViewExample.Droid PreferredExecutionTarget="Android.Nexus_5X_API_21" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ListViewExample/Pages/BookListPage.xaml">
+    <Files>
+      <File FileName="ListViewExample/Pages/BookListPage.xaml" Line="31" Column="41" />
+      <File FileName="ListViewExample/Pages/BookListPage.xaml.cs" Line="14" Column="56" />
+      <File FileName="ListViewExample/ViewModel/BookListViewModel.cs" Line="46" Column="76" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ListViewExample" expanded="True">
+            <Node name="ListViewExample" expanded="True">
+              <Node name="Model" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="BookListPage.xaml" expanded="True" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="ViewModel" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ListViewExample.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D49EE26F-ACA6-4B0C-9A7C-CD7D87431B4E">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.ListViewExample.iOS>
+</Properties>

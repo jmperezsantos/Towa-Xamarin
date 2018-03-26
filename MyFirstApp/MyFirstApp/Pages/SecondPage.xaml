@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="MyFirstApp.Pages.SecondPage"
+    Title="Second Page">
+    <ContentPage.Content>
+        <StackLayout
+            BackgroundColor="Lime"
+            Orientation="Vertical">
+            <Label
+                x:Name="lbMessage"
+                BackgroundColor="Aqua"
+                Text="Second Page"
+                FontSize="40" />
+            <Button
+                x:Name="btnBack"
+                TextColor="White"
+                Text="Back"
+                FontSize="30"
+                BackgroundColor="Fuchsia" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

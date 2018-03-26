@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{5EC5F9DC-DF4B-434F-93BA-33C799B6BB3A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TabbedPageExample/Pages/FirstPage.xaml">
+    <Files>
+      <File FileName="TabbedPageExample/App.xaml.cs" Line="14" Column="51" />
+      <File FileName="TabbedPageExample/Pages/FirstPage.xaml" Line="8" Column="20" />
+      <File FileName="TabbedPageExample/Pages/SecondPage.xaml.cs" Line="14" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TabbedPageExample" expanded="True">
+            <Node name="TabbedPageExample" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="FirstPage.xaml" expanded="True" selected="True" />
+                <Node name="SecondPage.xaml" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+            <Node name="TabbedPageExample.Droid" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="TabbedPageExample.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TabbedPageExample.Droid PreferredExecutionTarget="Android.Nexus_5X_API_21" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TabbedPageExample.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D49EE26F-ACA6-4B0C-9A7C-CD7D87431B4E">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.TabbedPageExample.iOS>
+</Properties>

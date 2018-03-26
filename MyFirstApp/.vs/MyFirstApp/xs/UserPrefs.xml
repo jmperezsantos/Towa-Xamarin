@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{D81DAC5A-B917-4DF0-9F66-8E8A189BAF20}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyFirstApp/MyFirstAppPage.xaml.cs">
+    <Files>
+      <File FileName="MyFirstApp/MyFirstAppPage.xaml.cs" Line="36" Column="55" />
+      <File FileName="MyFirstApp/Pages/SecondPage.xaml.cs" Line="16" Column="52" />
+      <File FileName="MyFirstApp/Pages/SecondPage.xaml" Line="17" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyFirstApp" expanded="True">
+            <Node name="MyFirstApp" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="SecondPage.xaml" expanded="True" />
+              </Node>
+              <Node name="MyFirstAppPage.xaml" expanded="True">
+                <Node name="MyFirstAppPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="MyFirstApp.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MyFirstApp.Droid PreferredExecutionTarget="Android.Nexus_5X_API_21" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MyFirstApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F05252B5-D845-415D-8003-FA2B11DCD3A9">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.MyFirstApp.iOS>
+</Properties>
