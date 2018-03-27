@@ -12,10 +12,17 @@ namespace NetworkingExample.Pages
         {
             InitializeComponent();
 
-            this.BindingContext = new BookListViewModel();
+            //this.BindingContext = new BookListViewModel();
         }
 
-        void NewBook(object sender, System.EventArgs e)
+		protected override void OnAppearing()
+		{
+            base.OnAppearing();
+
+            this.BindingContext = new BookListViewModel();
+		}
+
+		void NewBook(object sender, System.EventArgs e)
         {
             BookFormPage page = new BookFormPage();
             this.Navigation.PushModalAsync(page);
