@@ -1,28 +1,11 @@
 ﻿<Properties StartupConfiguration="{4118A8B9-C6B4-4D60-A4AF-304AEC8159E3}|Default">
   <MonoDevelop.Ide.ItemProperties.ListViewExample.Droid PreferredExecutionTarget="Android.Nexus_5X_API_21" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ListViewExample/Pages/BookListPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ListViewExample/ListViewExamplePage.xaml">
     <Files>
-      <File FileName="ListViewExample/ViewModel/BookListViewModel.cs" Line="30" Column="26" />
-      <File FileName="ListViewExample/Pages/BookListPage.xaml" Line="7" Column="18" />
-      <File FileName="ListViewExample/Controls/BookItem.xaml" Line="36" Column="15" />
+      <File FileName="ListViewExample/Pages/BookListPage.xaml.cs" Line="14" Column="13" />
+      <File FileName="ListViewExample/Pages/BookListPage.xaml" Line="5" Column="25" />
+      <File FileName="ListViewExample/ListViewExamplePage.xaml" Line="12" Column="1" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="ListViewExample" expanded="True">
-            <Node name="ListViewExample" expanded="True">
-              <Node name="Controls" expanded="True">
-                <Node name="BookItem.xaml" expanded="True" />
-              </Node>
-              <Node name="Pages" expanded="True">
-                <Node name="BookListPage.xaml" expanded="True" selected="True" />
-              </Node>
-              <Node name="ViewModel" expanded="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
