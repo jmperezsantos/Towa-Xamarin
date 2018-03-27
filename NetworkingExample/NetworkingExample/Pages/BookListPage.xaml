@@ -5,15 +5,26 @@
     xmlns:controls="clr-namespace:NetworkingExample.Controls"
     x:Class="NetworkingExample.Pages.BookListPage">
     <ContentPage.Content>
-        <ListView
-            ItemsSource="{Binding Books}">
-            <ListView.ItemTemplate>
-                <DataTemplate>
-                    <ViewCell>
-                        <controls:BookListItem />
-                    </ViewCell>
-                </DataTemplate>
-            </ListView.ItemTemplate>
-        </ListView>
+        <StackLayout
+            Orientation="Vertical">
+            <Button
+                Clicked="NewBook"
+                WidthRequest="100"
+                TextColor="White"
+                HorizontalOptions="End"
+                BackgroundColor="Green"
+                Text="Nuevo" />
+            <ListView
+                ItemsSource="{Binding Books}"
+                ItemTapped="ListViewTapped">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <controls:BookListItem />
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
     </ContentPage.Content>
 </ContentPage>

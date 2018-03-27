@@ -106,6 +106,7 @@ public class MonoPackageManager {
 class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
 		/* We need to ensure that "NetworkingExample.Droid.dll" comes first in this list. */
+		"NetworkingExample.Droid.dll",
 		"FormsViewGroup.dll",
 		"NetworkingExample.dll",
 		"Xamarin.Android.Support.Animated.Vector.Drawable.dll",

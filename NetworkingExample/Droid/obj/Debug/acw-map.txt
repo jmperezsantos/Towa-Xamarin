@@ -1,3 +1,7 @@
+NetworkingExample.Droid.MainActivity, NetworkingExample.Droid;md5e0426d0ecb90ed8767c0a14973f756f6.MainActivity
+NetworkingExample.Droid.MainActivity, NetworkingExample.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e0426d0ecb90ed8767c0a14973f756f6.MainActivity
+NetworkingExample.Droid.MainActivity;md5e0426d0ecb90ed8767c0a14973f756f6.MainActivity
+networkingexample.droid.MainActivity;md5e0426d0ecb90ed8767c0a14973f756f6.MainActivity
 Android.Support.V4.Widget.SearchViewCompat/IOnCloseListenerImplementor, Xamarin.Android.Support.Compat;mono.android.support.v4.widget.SearchViewCompat_OnCloseListenerImplementor
 Android.Support.V4.Widget.SearchViewCompat+IOnCloseListenerImplementor, Xamarin.Android.Support.Compat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.widget.SearchViewCompat_OnCloseListenerImplementor
 Android.Support.V4.Widget.SearchViewCompat.IOnCloseListenerImplementor;mono.android.support.v4.widget.SearchViewCompat_OnCloseListenerImplementor

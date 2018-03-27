@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="NetworkingExample.Pages.BookFormPage">
+    <ContentPage.Content>
+        <StackLayout
+            Margin="10, 22"
+            Orientation="Vertical">
+            <Entry
+                Placeholder="Título"
+                Text="{Binding Book.Title}" />
+            <Entry
+                Placeholder="Author"
+                Text="{Binding Book.Author}" />
+            <Entry
+                Placeholder="Imágen"
+                Text="{Binding Book.Image}" />
+            <StackLayout
+                Orientation="Horizontal">
+                <Button
+                    x:Name="btnSave"
+                    Command="{Binding SaveCommand}"
+                    HorizontalOptions="FillAndExpand"
+                    TextColor="White"
+                    BackgroundColor="Green"
+                    Text="Save" />
+                <Button
+                    Clicked="GoBack"
+                    HorizontalOptions="FillAndExpand"
+                    TextColor="White"
+                    BackgroundColor="Red"
+                    Text="Cancel" />
+            </StackLayout>
+            <ActivityIndicator
+                Color="Navy"
+                IsRunning="{Binding IsLoading}" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
