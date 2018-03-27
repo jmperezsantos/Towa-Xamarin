@@ -3,7 +3,7 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="NetworkingExample/Pages/BookListPage.xaml.cs">
     <Files>
       <File FileName="NetworkingExample/ViewModel/BookFormViewModel.cs" Line="72" Column="1" />
-      <File FileName="NetworkingExample/Pages/BookListPage.xaml.cs" Line="10" Column="6" />
+      <File FileName="NetworkingExample/Pages/BookListPage.xaml.cs" Line="26" Column="10" />
       <File FileName="NetworkingExample/Pages/BookFormPage.xaml" Line="40" Column="15" />
       <File FileName="NetworkingExample/ViewModel/BookListViewModel.cs" Line="4" Column="31" />
       <File FileName="NetworkingExample/RestClient/BookDAO.cs" Line="69" Column="1" />
@@ -11,8 +11,9 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="NetworkingExample" expanded="True" selected="True">
+          <Node name="NetworkingExample" expanded="True">
             <Node name="NetworkingExample" expanded="True">
+              <Node name="GettingStarted" selected="True" />
               <Node name="Model" expanded="True" />
               <Node name="Pages" expanded="True">
                 <Node name="BookFormPage.xaml" expanded="True" />

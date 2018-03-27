@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{5B8FE3A3-9DC2-4BC3-8953-155C855C9F6D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DependencyService/Dependency/IShowNativeMessage.cs">
+    <Files>
+      <File FileName="Droid/Dependency/ShowNativeMessageAndroid.cs" Line="8" Column="49" />
+      <File FileName="iOS/Dependency/ShowNativeMessageiOS.cs" Line="16" Column="1" />
+      <File FileName="DependencyService/DependencyServicePage.xaml" Line="15" Column="36" />
+      <File FileName="DependencyService/DependencyServicePage.xaml.cs" Line="19" Column="1" />
+      <File FileName="DependencyService/Dependency/IShowNativeMessage.cs" Line="4" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DependencyService" expanded="True">
+            <Node name="DependencyService" expanded="True">
+              <Node name="Dependency" expanded="True">
+                <Node name="IShowNativeMessage.cs" selected="True" />
+              </Node>
+              <Node name="DependencyServicePage.xaml" expanded="True" />
+            </Node>
+            <Node name="DependencyService.Droid" expanded="True">
+              <Node name="Dependency" expanded="True" />
+            </Node>
+            <Node name="DependencyService.iOS" expanded="True">
+              <Node name="Dependency" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/jmperezsantos/Desktop/Xamarin/Towa-Xamarin/DependencyService/iOS/Dependency/ShowNativeMessageiOS.cs" relfile="iOS/Dependency/ShowNativeMessageiOS.cs" line="16" column="1" />
+      <Breakpoint file="/Users/jmperezsantos/Desktop/Xamarin/Towa-Xamarin/DependencyService/Droid/Dependency/ShowNativeMessageAndroid.cs" relfile="Droid/Dependency/ShowNativeMessageAndroid.cs" line="16" column="1" />
+      <Breakpoint file="/Users/jmperezsantos/Desktop/Xamarin/Towa-Xamarin/DependencyService/DependencyService/DependencyServicePage.xaml.cs" relfile="DependencyService/DependencyServicePage.xaml.cs" line="16" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DependencyService.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.9635C858-D9CA-48B2-928B-CA9322D2CEE0">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.DependencyService.iOS>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DependencyService.Droid PreferredExecutionTarget="Android.Nexus_5X_API_21" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+</Properties>
