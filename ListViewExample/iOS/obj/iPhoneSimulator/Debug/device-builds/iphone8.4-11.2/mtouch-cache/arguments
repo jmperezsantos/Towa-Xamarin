@@ -13,10 +13,13 @@
 	--abi=x86_64 \
 	--symbollist=/Users/jmperezsantos/Desktop/Xamarin/Towa-Xamarin/ListViewExample/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-11.2/mtouch-symbols.list \
 	--dsym=no \
-	-r=/Users/jmperezsantos/Desktop/Xamarin/Towa-Xamarin/ListViewExample/ListViewExample/bin/Debug/ListViewExample.dll \
+	-r=/Users/jmperezsantos/Desktop/Xamarin/Towa-Xamarin/ListViewExample/packages/Foundation.ObjectHydrator.Core.1.0.2/lib/netstandard1.6/Foundation.ObjectHydrator.Core.dll \
+	-r=/Users/jmperezsantos/Desktop/Xamarin/Towa-Xamarin/ListViewExample/ListViewExample.Standard/bin/Debug/netstandard2.0/ListViewExample.dll \
 	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
 	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
 	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.IO.Compression.dll \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Net.Http.dll \
 	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
 	-r=/Users/jmperezsantos/Desktop/Xamarin/Towa-Xamarin/ListViewExample/packages/Xamarin.Forms.2.5.0.121934/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll \
 	-r=/Users/jmperezsantos/Desktop/Xamarin/Towa-Xamarin/ListViewExample/packages/Xamarin.Forms.2.5.0.121934/lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll \
@@ -160,7 +163,8 @@
 	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Xml.XPath.XDocument.dll \
 	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Xml.XPath.XmlDocument.dll \
 	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Xml.Xsl.Primitives.dll \
-	-r=/Users/jmperezsantos/Desktop/Xamarin/Towa-Xamarin/ListViewExample/ListViewExample/bin/Debug/ListViewExample.dll \
+	-r=/Users/jmperezsantos/Desktop/Xamarin/Towa-Xamarin/ListViewExample/packages/Foundation.ObjectHydrator.Core.1.0.2/lib/netstandard1.6/Foundation.ObjectHydrator.Core.dll \
+	-r=/Users/jmperezsantos/Desktop/Xamarin/Towa-Xamarin/ListViewExample/ListViewExample.Standard/bin/Debug/netstandard2.0/ListViewExample.dll \
 	-r=/Users/jmperezsantos/Desktop/Xamarin/Towa-Xamarin/ListViewExample/packages/Xamarin.Forms.2.5.0.121934/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll \
 	-r=/Users/jmperezsantos/Desktop/Xamarin/Towa-Xamarin/ListViewExample/packages/Xamarin.Forms.2.5.0.121934/lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll \
 	-r=/Users/jmperezsantos/Desktop/Xamarin/Towa-Xamarin/ListViewExample/packages/Xamarin.Forms.2.5.0.121934/lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll \

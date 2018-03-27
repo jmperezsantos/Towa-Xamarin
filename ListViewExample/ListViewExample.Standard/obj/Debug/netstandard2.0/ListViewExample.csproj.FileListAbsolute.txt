@@ -1,0 +1,12 @@
+/Users/jmperezsantos/Desktop/Xamarin/Towa-Xamarin/ListViewExample/ListViewExample.Standard/bin/Debug/netstandard2.0/ListViewExample.deps.json
+/Users/jmperezsantos/Desktop/Xamarin/Towa-Xamarin/ListViewExample/ListViewExample.Standard/bin/Debug/netstandard2.0/ListViewExample.dll
+/Users/jmperezsantos/Desktop/Xamarin/Towa-Xamarin/ListViewExample/ListViewExample.Standard/bin/Debug/netstandard2.0/ListViewExample.pdb
+/Users/jmperezsantos/Desktop/Xamarin/Towa-Xamarin/ListViewExample/ListViewExample.Standard/obj/Debug/netstandard2.0/ListViewExample.csprojResolveAssemblyReference.cache
+/Users/jmperezsantos/Desktop/Xamarin/Towa-Xamarin/ListViewExample/ListViewExample.Standard/obj/Debug/netstandard2.0/ListViewExample.csproj.CoreCompileInputs.cache
+/Users/jmperezsantos/Desktop/Xamarin/Towa-Xamarin/ListViewExample/ListViewExample.Standard/obj/Debug/netstandard2.0/ListViewExample.App.xaml.g.cs
+/Users/jmperezsantos/Desktop/Xamarin/Towa-Xamarin/ListViewExample/ListViewExample.Standard/obj/Debug/netstandard2.0/ListViewExample.Controls.BookItem.xaml.g.cs
+/Users/jmperezsantos/Desktop/Xamarin/Towa-Xamarin/ListViewExample/ListViewExample.Standard/obj/Debug/netstandard2.0/ListViewExample.Pages.BookListPage.xaml.g.cs
+/Users/jmperezsantos/Desktop/Xamarin/Towa-Xamarin/ListViewExample/ListViewExample.Standard/obj/Debug/netstandard2.0/ListViewExample.AssemblyInfoInputs.cache
+/Users/jmperezsantos/Desktop/Xamarin/Towa-Xamarin/ListViewExample/ListViewExample.Standard/obj/Debug/netstandard2.0/ListViewExample.AssemblyInfo.cs
+/Users/jmperezsantos/Desktop/Xamarin/Towa-Xamarin/ListViewExample/ListViewExample.Standard/obj/Debug/netstandard2.0/ListViewExample.dll
+/Users/jmperezsantos/Desktop/Xamarin/Towa-Xamarin/ListViewExample/ListViewExample.Standard/obj/Debug/netstandard2.0/ListViewExample.pdb
