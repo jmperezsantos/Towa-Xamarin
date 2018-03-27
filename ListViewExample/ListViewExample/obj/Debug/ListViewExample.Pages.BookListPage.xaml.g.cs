@@ -11,8 +11,8 @@
 namespace ListViewExample.Pages {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/jmperezsantos/Desktop/Xamarin/ListViewExample/ListViewExample/Pages/BookLi" +
-        "stPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/jmperezsantos/Desktop/Xamarin/Towa-Xamarin/ListViewExample/ListViewExample" +
+        "/Pages/BookListPage.xaml")]
     public partial class BookListPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

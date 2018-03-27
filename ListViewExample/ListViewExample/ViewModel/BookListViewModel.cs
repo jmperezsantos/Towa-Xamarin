@@ -28,6 +28,13 @@ namespace ListViewExample.ViewModel
         public BookListViewModel()
         {
             this.LstBooks = this.generateDummies(50);
+
+            /*Hydrator<BookModel> hydrator = new Hydrator<BookModel>()
+                .With<string>(x=>x.Image,"https://placeimg.com/100/100")
+                .WithFirstName(x=>x.Author)
+                .WithCompany(x=>x.Title);
+
+            this.LstBooks = hydrator.GetList(50);*/
         }
 
         public event PropertyChangedEventHandler PropertyChanged;

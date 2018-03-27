@@ -2,42 +2,18 @@
 <ContentPage
     xmlns="http://xamarin.com/schemas/2014/forms"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:controls="clr-namespace:ListViewExample.Controls"
     x:Class="ListViewExample.Pages.BookListPage">
     <ContentPage.Content>
         <ListView
+            ItemTapped="ListItemTapped"
             ItemsSource="{Binding LstBooks}"
+            SeparatorVisibility="None"
             HasUnevenRows="true">
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>
-                        <Grid
-                            Padding="5">
-                            <Grid.ColumnDefinitions>
-                                <ColumnDefinition
-                                    Width="20*" />
-                                <ColumnDefinition
-                                    Width="80*" />
-                            </Grid.ColumnDefinitions>
-                            <Grid.RowDefinitions>
-                                <RowDefinition
-                                    Height="*" />
-                            </Grid.RowDefinitions>
-                            <Image
-                                Grid.Column="0"
-                                Grid.Row="0"
-                                WidthRequest="40"
-                                HeightRequest="40"
-                                Source="{Binding Image}" />
-                            <StackLayout
-                                Grid.Column="1"
-                                Grid.Row="0"
-                                Orientation="Vertical">
-                                <Label
-                                    Text="{Binding Title}" />
-                                <Label
-                                    Text="{Binding Author}" />
-                            </StackLayout>
-                        </Grid>
+                        <controls:BookItem />
                     </ViewCell>
                 </DataTemplate>
             </ListView.ItemTemplate>
