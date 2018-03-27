@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{AF831CB0-EEF3-4D98-A282-49ED40C44943}|Default">
+  <MonoDevelop.Ide.ItemProperties.NetworkingExample.Droid AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NetworkingExample/Model/BookModel.cs">
+    <Files>
+      <File FileName="NetworkingExample/Pages/BookListPage.xaml" Line="19" Column="15" />
+      <File FileName="NetworkingExample/Controls/BookListItem.xaml" Line="35" Column="15" />
+      <File FileName="NetworkingExample/RestClient/BookDAO.cs" Line="38" Column="24" />
+      <File FileName="NetworkingExample/Model/BookModel.cs" Line="5" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.NetworkingExample.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D49EE26F-ACA6-4B0C-9A7C-CD7D87431B4E">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.NetworkingExample.iOS>
+  <MultiItemStartupConfigurations />
+</Properties>
